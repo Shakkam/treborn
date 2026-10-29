@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "tower-quest",
+    "name": "Tower Quest",
     "slug": "tower-quest",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
